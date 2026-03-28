@@ -1,0 +1,6 @@
+Process Reflection - Phase Two
+HTML: I updated the HTML structure from Phase One by adding a dedicated section for the contact form. I also included a <p> element specifically designed to provide dynamic feedback to the user after they interact with the form, improving the overall accessibility and communication of the site.
+
+CSS: I implemented several new styles, including a comprehensive responsive design using media queries, which was missing in the first phase. I utilized CSS Grid and Flexbox to create a more organized and professional layout. One of the main tasks was developing the Dark Mode styles; it was a minor challenge to figure out how to correctly apply the inverted color schemes, but I am very pleased with the final visual result.
+
+JavaScript: While the basic concepts from class were straightforward to apply, I wanted to create something more engaging for my comic-book theme. I had to deep-dive into Conditional Logic (IF statements) and DOM Manipulation to swap images and styles dynamically. The biggest challenge was managing the profile image transitions—ensuring the correct "hero" version appeared in Dark Mode without breaking the Light Mode original. It was a significant learning curve to keep these states separate, but seeing the functional, interactive result was incredibly rewarding.
