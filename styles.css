@@ -418,6 +418,9 @@ body{
   height: 110vh;                
 }
 
+nav ul{
+  padding-left: 10px;/*remove the default padding (40px) and adjust to 10px*/
+}
 
   nav ul li a {
     display: grid;
